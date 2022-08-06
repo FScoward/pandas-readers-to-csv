@@ -1,0 +1,1 @@
+pandas-readerを利用して取得できるデータをcsvにするだけ
